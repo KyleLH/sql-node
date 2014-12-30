@@ -1,0 +1,14 @@
+{
+  "name": "sql_test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node sql_test.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mysql": "~2.5.4"
+  }
+}
